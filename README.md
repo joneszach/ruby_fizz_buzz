@@ -10,19 +10,23 @@ An implementation & beginner rspec test of:
 Example usage
 ==============
 
-`15.to_fizzbuzz  
-=> "FizzBuzz"`
+```
+15.to_fizzbuzz  
+=> "FizzBuzz"
+```
 
 `FizzBuzz::to_s` exists, so the following works:
 
-`puts FizzBuzz  
+```
+puts FizzBuzz  
 1  
 2  
 Fizz  
 4  
 Buzz  
 Fizz  
-...`
+...
+```
 
 Run the tests
 ==============
